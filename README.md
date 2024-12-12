@@ -9,18 +9,3 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0055-jump-game) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0055-jump-game) |
-## Greedy
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0055-jump-game) |
-<!---LeetCode Topics End-->
