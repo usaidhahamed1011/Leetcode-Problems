@@ -9,10 +9,3 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0006-zigzag-conversion](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
-<!---LeetCode Topics End-->
