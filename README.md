@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [2756-buy-two-chocolates](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2756-buy-two-chocolates) |
@@ -54,4 +55,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2756-buy-two-chocolates) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
