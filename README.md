@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0053-maximum-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
