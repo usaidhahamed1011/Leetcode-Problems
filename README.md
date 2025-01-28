@@ -38,4 +38,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0223-rectangle-area) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
