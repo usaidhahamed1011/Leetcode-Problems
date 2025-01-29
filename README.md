@@ -44,11 +44,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -59,10 +61,15 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
