@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,4 +91,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+## Union Find
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
