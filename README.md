@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0747-min-cost-climbing-stairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
