@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3429-special-array-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -130,4 +131,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
