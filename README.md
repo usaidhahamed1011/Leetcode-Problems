@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
@@ -32,12 +33,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
