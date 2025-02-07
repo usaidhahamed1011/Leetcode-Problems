@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3568-find-the-key-of-the-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
 ## Geometry
 |  |
 | ------- |
