@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
@@ -44,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -113,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
