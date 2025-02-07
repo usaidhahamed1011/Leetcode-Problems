@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0029-divide-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0223-rectangle-area](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Geometry
 |  |
 | ------- |
@@ -158,4 +159,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
