@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Union Find
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3264-maximum-points-after-enemy-battles](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
 |  |
 | ------- |
