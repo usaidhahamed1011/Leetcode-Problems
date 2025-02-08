@@ -61,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0213-house-robber-ii) |
@@ -153,6 +154,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
@@ -172,6 +174,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0031-next-permutation) |
 ## Simulation
 |  |
