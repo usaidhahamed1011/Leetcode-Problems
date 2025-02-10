@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -81,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1585-the-kth-factor-of-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -215,6 +217,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Design
 |  |
 | ------- |
