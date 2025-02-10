@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
@@ -84,6 +85,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Geometry
 |  |
 | ------- |
