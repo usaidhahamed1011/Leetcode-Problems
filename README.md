@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1927-maximum-ascending-subarray-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -53,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2434-design-a-number-container-system](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -162,6 +164,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
@@ -219,6 +222,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
