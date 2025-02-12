@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3446-find-the-number-of-good-pairs-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3519-find-the-number-of-winning-players](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -59,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Dynamic Programming
 |  |
 | ------- |
