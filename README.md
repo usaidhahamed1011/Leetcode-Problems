@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +214,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -221,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
