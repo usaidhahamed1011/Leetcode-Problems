@@ -111,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0101-symmetric-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -119,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0100-same-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -135,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0101-symmetric-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bit Manipulation
 |  |
