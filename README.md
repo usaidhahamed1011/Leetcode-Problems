@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3429-special-array-i) |
@@ -208,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3447-clear-digits) |
@@ -228,6 +230,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
