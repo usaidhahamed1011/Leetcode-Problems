@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3447-clear-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3567-convert-date-to-binary) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
