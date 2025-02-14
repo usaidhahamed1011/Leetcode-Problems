@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0747-min-cost-climbing-stairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
@@ -88,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0029-divide-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0223-rectangle-area](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -171,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sorting
@@ -251,5 +254,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
