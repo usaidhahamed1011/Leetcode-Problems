@@ -113,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0110-balanced-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,10 +140,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0110-balanced-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0222-count-complete-tree-nodes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Stack
@@ -194,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
