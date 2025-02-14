@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0031-next-permutation](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0064-minimum-path-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -154,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -262,4 +264,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
