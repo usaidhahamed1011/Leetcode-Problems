@@ -79,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -190,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
