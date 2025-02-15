@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -93,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0279-perfect-squares](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0279-perfect-squares](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0909-stone-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -194,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
@@ -262,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
