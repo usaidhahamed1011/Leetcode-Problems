@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0064-minimum-path-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
+| [0179-largest-number](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -190,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0179-largest-number) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
@@ -202,6 +204,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0072-edit-distance) |
+| [0179-largest-number](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0179-largest-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -223,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0179-largest-number) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
