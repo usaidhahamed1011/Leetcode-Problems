@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -67,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -77,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -258,6 +261,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
