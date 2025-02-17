@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1319-unique-number-of-occurrences](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1848-sum-of-unique-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2447-merge-similar-items](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2447-merge-similar-items) |
@@ -200,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1240-stone-game-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3427-special-array-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -236,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
