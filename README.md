@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3779-eat-pizzas](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3779-eat-pizzas) |
+## Greedy
+|  |
+| ------- |
+| [3779-eat-pizzas](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3779-eat-pizzas) |
+## Sorting
+|  |
+| ------- |
+| [3779-eat-pizzas](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3779-eat-pizzas) |
+<!---LeetCode Topics End-->
