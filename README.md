@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
