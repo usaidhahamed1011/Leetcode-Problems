@@ -10,7 +10,7 @@ public:
                 mp[sum]++;
             }
         }
-        int m1{INT_MIN}, m2{INT_MIN};
+        int m1=INT_MIN, m2=INT_MIN;
         for(auto x: mp) {
             if(x.second > m1) {
                 m2 = m1;
