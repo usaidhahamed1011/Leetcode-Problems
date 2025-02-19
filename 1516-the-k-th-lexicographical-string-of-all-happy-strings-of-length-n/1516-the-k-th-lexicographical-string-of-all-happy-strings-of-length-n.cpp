@@ -1,10 +1,10 @@
 class Solution {
 public:
     string getHappyString(int n, int k) {
-        if (k > (3 << (n - 1))) return ""; // Check if k is out of bounds
+        if (k > (3 << (n - 1))) return ""; 
         
         queue<string> q;
-        q.push("");  // Start with an empty string
+        q.push("");
         
         while (k) {
             string curr = q.front();
