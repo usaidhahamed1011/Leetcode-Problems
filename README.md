@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3779-eat-pizzas) |
 ## Greedy
@@ -50,12 +51,15 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
+| [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
