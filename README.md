@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0400-nth-digit) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -62,4 +63,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+## Math
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
