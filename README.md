@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3779-eat-pizzas) |
@@ -77,4 +78,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+## Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
