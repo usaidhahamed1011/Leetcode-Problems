@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Backtracking
 |  |
 | ------- |
