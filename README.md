@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
@@ -34,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -42,10 +44,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0400-nth-digit) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -60,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
