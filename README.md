@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -68,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0350-intersection-of-two-arrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 ## String
@@ -111,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -129,6 +132,11 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
