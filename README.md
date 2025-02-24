@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0554-brick-wall) |
@@ -108,6 +109,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0416-partition-equal-subset-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
