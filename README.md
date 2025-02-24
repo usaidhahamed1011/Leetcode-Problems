@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3779-eat-pizzas](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3779-eat-pizzas) |
 ## Greedy
@@ -74,6 +75,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -153,4 +155,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
