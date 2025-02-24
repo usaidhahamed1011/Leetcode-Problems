@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -116,15 +117,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -139,4 +143,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
