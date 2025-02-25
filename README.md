@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3373-maximum-prime-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -103,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0371-sum-of-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0400-nth-digit) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3373-maximum-prime-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Interactive
 |  |
@@ -178,4 +180,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
