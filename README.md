@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0658-find-k-closest-elements](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -98,6 +99,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0400-nth-digit) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0198-house-robber](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
@@ -163,4 +166,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
