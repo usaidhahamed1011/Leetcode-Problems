@@ -134,11 +134,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2573-remove-nodes-from-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2573-remove-nodes-from-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -197,4 +200,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
+## Recursion
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
