@@ -40,4 +40,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+## Math
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
