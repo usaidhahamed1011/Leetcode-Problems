@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Sliding Window
 |  |
 | ------- |
