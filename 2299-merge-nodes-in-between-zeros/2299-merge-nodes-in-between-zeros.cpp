@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        ListNode* temp = head->next;
+        ListNode* temp = head;
         ListNode* curr = temp;
         while(curr!=nullptr){
             int sum = 0;
