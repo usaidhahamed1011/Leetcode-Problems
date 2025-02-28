@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Sliding Window
 |  |
@@ -89,4 +90,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
