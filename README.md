@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
+| [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Dynamic Programming
 |  |
@@ -90,10 +91,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
+| [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
