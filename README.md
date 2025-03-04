@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -38,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
+| [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Probability and Statistics
 |  |
@@ -97,4 +100,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
