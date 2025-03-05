@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Sliding Window
 |  |
@@ -110,4 +112,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
