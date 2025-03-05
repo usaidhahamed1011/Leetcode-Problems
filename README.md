@@ -56,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Dynamic Programming
 |  |
 | ------- |
