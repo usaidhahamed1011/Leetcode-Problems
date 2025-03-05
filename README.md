@@ -56,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2649-count-total-number-of-colored-cells](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Dynamic Programming
 |  |
@@ -104,6 +105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Prefix Sum
 |  |
 | ------- |
