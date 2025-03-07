@@ -124,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1920-determine-color-of-a-chessboard-square](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3312-number-of-changing-keys](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3312-number-of-changing-keys) |
 ## Prefix Sum
 |  |
 | ------- |
