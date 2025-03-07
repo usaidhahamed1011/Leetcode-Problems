@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3227-find-missing-and-repeated-values](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
@@ -89,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [3227-find-missing-and-repeated-values](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |
