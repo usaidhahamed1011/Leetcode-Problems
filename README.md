@@ -72,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2649-count-total-number-of-colored-cells](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
