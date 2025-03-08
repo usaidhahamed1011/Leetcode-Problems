@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3242-count-elements-with-maximum-frequency](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3311-ant-on-the-boundary](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3311-ant-on-the-boundary) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -119,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3311-ant-on-the-boundary](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3311-ant-on-the-boundary) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Stack
 |  |
 | ------- |
