@@ -87,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2128-reverse-prefix-of-word](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3312-number-of-changing-keys](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3312-number-of-changing-keys) |
