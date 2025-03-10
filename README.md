@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3321-type-of-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -79,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3321-type-of-triangle) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
