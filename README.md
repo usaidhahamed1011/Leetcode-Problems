@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
+| [3334-apple-redistribution-into-boxes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -41,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0605-can-place-flowers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [3321-type-of-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3748-sort-matrix-by-diagonals](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
