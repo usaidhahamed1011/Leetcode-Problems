@@ -94,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3227-find-missing-and-repeated-values](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
@@ -142,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3312-number-of-changing-keys](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3312-number-of-changing-keys) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
