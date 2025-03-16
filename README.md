@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0940-fruit-into-baskets](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -60,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
