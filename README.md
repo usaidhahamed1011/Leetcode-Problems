@@ -88,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
+| [1086-divisor-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2610-closest-prime-numbers-in-range](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -102,6 +103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1086-divisor-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
@@ -221,4 +223,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
