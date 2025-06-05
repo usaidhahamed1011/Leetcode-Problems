@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -104,6 +105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
