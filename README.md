@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -106,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
@@ -135,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -175,6 +178,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [1170-shortest-common-supersequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -246,9 +250,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
