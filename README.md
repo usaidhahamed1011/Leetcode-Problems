@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -52,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -67,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -110,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0867-new-21-game](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -192,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [3311-ant-on-the-boundary](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
