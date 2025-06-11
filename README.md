@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -61,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [2128-reverse-prefix-of-word](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -109,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -176,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [1048-clumsy-factorial](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1048-clumsy-factorial) |
 | [2128-reverse-prefix-of-word](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -265,4 +269,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0139-word-break) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
