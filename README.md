@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2478-longest-nice-subarray](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -57,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
@@ -76,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1046-max-consecutive-ones-iii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usaidhahamed1011/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
